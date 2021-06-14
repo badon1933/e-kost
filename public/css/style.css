@@ -1,0 +1,7 @@
+.card-panel {
+  transform: translateY(50%);
+}
+
+#login .btn, #forgot .btn {
+  width: 100% !important;
+}
